@@ -1,0 +1,11 @@
+title: masasuzu logs
+description: ""
+url: "logs.masasuzu.net"
+twitter_username: masasuz
+github_username:  masasuzu
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
